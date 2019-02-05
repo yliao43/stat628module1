@@ -36,3 +36,7 @@
 
 ## **image**
 This folder contains mainly the figures/images/tables produced in our analysis. There are 17 images in total, including pairs plot, cook's plot, residuals plot and so on.
+
+
+## **Presentation**
+slides that used for presentation
