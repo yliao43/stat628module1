@@ -1,5 +1,5 @@
 # Bodyfat Analysis Project
-## **Author:**     
+#### **Author:**     
 :boy:1. Canyang Liu    
 :girl:2. Liyun Zeng  
 :boy:3. Yejia Liao  
@@ -14,7 +14,8 @@
 ## **data**
 **Two filse are included in this folder**
 
-**BodyFat.csv** is the original 252 records of available measurements include age, weight, height, bmi, and various body circumference measurements. In particular, the variables listed below (from left to right in the data set) are:
+
+:green_book:**BodyFat.csv** is the original 252 records of available measurements include age, weight, height, bmi, and various body circumference measurements. In particular, the variables listed below (from left to right in the data set) are:
 
 - Percent body fat from Siri's (1956) equation
 - Density determined from underwater weighing
@@ -32,7 +33,8 @@
 - Forearm circumference (cm)
 - Wrist circumference (cm)
 
-**cleaned_data.csv** is the data after removing all outliers from the original dataset
+
+:green_book:**cleaned_data.csv** is the data after removing all outliers from the original dataset
 
 ## **image**
 This folder contains mainly the figures/images/tables produced in our analysis. There are 17 images in total, including pairs plot, cook's plot, residuals plot and so on.
@@ -40,3 +42,7 @@ This folder contains mainly the figures/images/tables produced in our analysis. 
 
 ## **Presentation**
 slides that used for presentation
+
+
+
+### :date:2/4/2019
